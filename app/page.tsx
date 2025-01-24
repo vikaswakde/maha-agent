@@ -1,5 +1,13 @@
 import Image from "next/image";
 
 export default function Home() {
-  return <div>Maha Agent Home Page</div>;
+  return(
+  // <Header />
+  // <Hero />
+  // <HowItWorks />
+  // <Features />
+  // <Pricing />
+  // <Testimonials />
+  // <Footer />
+  )
 }
